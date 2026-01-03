@@ -1,0 +1,9 @@
+----- Problems with Scanner -----
+
+● It assumes message boundaries
+● It blocks indefinitely
+● It hides partial reads
+● It breaks on malformed input
+● It is slow
+
+Scanner is built for human input, not network streams.
