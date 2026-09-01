@@ -1,4 +1,4 @@
-package Networking.code_10_TCP_Server_Client_Pro;
+package Networking.code_10_TCP_Server_Client_Pro_Scan;
 
 import java.io.*;
 import java.net.*;
